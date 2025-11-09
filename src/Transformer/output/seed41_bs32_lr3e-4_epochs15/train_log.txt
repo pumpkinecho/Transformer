@@ -1,0 +1,37 @@
+2025-11-08 06:44:30 - INFO - 日志文件已保存到：output/seed41_bs32_lr3e-4_epochs15/train_log.txt
+2025-11-08 06:44:30 - INFO - 当前output_dir：output/seed41_bs32_lr3e-4_epochs15
+2025-11-08 06:44:30 - INFO - PyTorch CUDA版本:11.8
+2025-11-08 06:44:30 - INFO - CUDA是否可用:True
+2025-11-08 06:44:30 - INFO - 可用GPU数量:2
+2025-11-08 06:44:30 - INFO - PyTorch CUDA编译版本:11.8
+2025-11-08 06:44:30 - INFO - 当前使用的GPU:0
+2025-11-08 06:44:32 - INFO - 第1轮模型训练与验证
+2025-11-08 07:15:03 - INFO - Epoch: 1, train_loss: 7.671, val_loss: 6.736, Bleu Score: 1.95, Used_time:30m31s
+2025-11-08 07:15:03 - INFO - 第2轮模型训练与验证
+2025-11-08 07:42:22 - INFO - Epoch: 2, train_loss: 6.189, val_loss: 5.605, Bleu Score: 9.95, Used_time:27m18s
+2025-11-08 07:42:22 - INFO - 第3轮模型训练与验证
+2025-11-08 08:10:01 - INFO - Epoch: 3, train_loss: 5.255, val_loss: 4.862, Bleu Score: 16.68, Used_time:27m39s
+2025-11-08 08:10:02 - INFO - 第4轮模型训练与验证
+2025-11-08 08:37:18 - INFO - Epoch: 4, train_loss: 4.648, val_loss: 4.495, Bleu Score: 19.98, Used_time:27m16s
+2025-11-08 08:37:19 - INFO - 第5轮模型训练与验证
+2025-11-08 09:04:51 - INFO - Epoch: 5, train_loss: 4.270, val_loss: 4.278, Bleu Score: 21.74, Used_time:27m33s
+2025-11-08 09:04:52 - INFO - 第6轮模型训练与验证
+2025-11-08 09:32:39 - INFO - Epoch: 6, train_loss: 3.994, val_loss: 4.150, Bleu Score: 23.18, Used_time:27m47s
+2025-11-08 09:32:40 - INFO - 第7轮模型训练与验证
+2025-11-08 10:00:29 - INFO - Epoch: 7, train_loss: 3.780, val_loss: 4.074, Bleu Score: 23.82, Used_time:27m49s
+2025-11-08 10:00:29 - INFO - 第8轮模型训练与验证
+2025-11-08 10:28:29 - INFO - Epoch: 8, train_loss: 3.613, val_loss: 4.010, Bleu Score: 24.41, Used_time:27m59s
+2025-11-08 10:28:29 - INFO - 第9轮模型训练与验证
+2025-11-08 10:56:16 - INFO - Epoch: 9, train_loss: 3.471, val_loss: 3.981, Bleu Score: 24.74, Used_time:27m47s
+2025-11-08 10:56:16 - INFO - 第10轮模型训练与验证
+2025-11-08 11:24:42 - INFO - Epoch: 10, train_loss: 3.356, val_loss: 3.952, Bleu Score: 25.35, Used_time:28m26s
+2025-11-08 11:24:43 - INFO - 第11轮模型训练与验证
+2025-11-08 11:52:07 - INFO - Epoch: 11, train_loss: 3.249, val_loss: 3.945, Bleu Score: 25.25, Used_time:27m24s
+2025-11-08 11:52:07 - INFO - 第12轮模型训练与验证
+2025-11-08 12:20:16 - INFO - Epoch: 12, train_loss: 3.158, val_loss: 3.935, Bleu Score: 25.70, Used_time:28m9s
+2025-11-08 12:20:17 - INFO - 第13轮模型训练与验证
+2025-11-08 12:50:50 - INFO - Epoch: 13, train_loss: 3.077, val_loss: 3.926, Bleu Score: 25.78, Used_time:30m34s
+2025-11-08 12:50:51 - INFO - 第14轮模型训练与验证
+2025-11-08 13:23:31 - INFO - Epoch: 14, train_loss: 3.001, val_loss: 3.933, Bleu Score: 25.88, Used_time:32m40s
+2025-11-08 13:23:32 - INFO - 第15轮模型训练与验证
+2025-11-08 14:14:06 - INFO - Epoch: 15, train_loss: 2.933, val_loss: 3.929, Bleu Score: 25.91, Used_time:50m34s
