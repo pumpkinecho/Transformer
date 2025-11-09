@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+src/Transformer/data/json/train.json filter=lfs diff=lfs merge=lfs -text
